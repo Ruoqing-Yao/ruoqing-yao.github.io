@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ruoqing Yao, a first year Linguistics Ph.D. student at the University of Santa Cruz.
+I'm Ruoqing Yao, a first year Linguistics Ph.D. student at the University of California, Santa Cruz.
 
-I completed my Bachelor's degree at William & Mary.
+I completed my Bachelor's degree at William & Mary with a double major in Linguistics and Computer Science.
